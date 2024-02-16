@@ -1,6 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Contents in this Next.js repo
+
+1 - Routing
+2 - Nested Routing
+3 - Dynamic Routing
+4 - Nested Dynamic ROuting
+5 - Catch All Segments
+6 - Not found page
+
+In this repo, i have
 
 First, run the development server:
 
